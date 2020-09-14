@@ -1,3 +1,3 @@
 # powerfulGNNs
 
-Reproducting experimental results
+Reproducing experimental results
